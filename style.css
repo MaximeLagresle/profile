@@ -22,11 +22,14 @@ a {
   text-decoration: none;
 }
 
-.image-movie {
+.image-book {
   width: 50%;
   height: auto;
 }
 
+.image-book:hover {
+  opacity: 0.8;
+}
 
 li {
   list-style-type: none;
